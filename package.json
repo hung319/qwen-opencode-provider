@@ -1,0 +1,11 @@
+{
+  "name": "qwen-opencode-provider",
+  "version": "3.2.3",
+  "description": "OpenCode plugin for Qwen API - auto adds provider with 28+ models",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["opencode", "plugin", "qwen", "ai", "alibaba"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
