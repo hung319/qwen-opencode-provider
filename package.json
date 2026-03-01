@@ -7,5 +7,9 @@
   "keywords": ["opencode", "plugin", "qwen", "ai", "alibaba"],
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hung319/qwen-opencode-provider.git"
+  },
   "dependencies": {}
 }
